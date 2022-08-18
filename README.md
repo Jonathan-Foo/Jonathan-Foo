@@ -129,12 +129,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
         width="48"
         height="48"
         alt="Mongoose"
       />
-      <br /><strong>Mongoose</strong>
+      <br /><strong>Heroku</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
