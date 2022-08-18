@@ -34,7 +34,7 @@
         alt="Sass"
       />
       <br /><strong>Sass</strong>
-    </td>
+    </td>      
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
