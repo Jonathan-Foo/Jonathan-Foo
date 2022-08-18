@@ -78,7 +78,7 @@
         height="48"
         alt="Material UI"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>MaterialUI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
