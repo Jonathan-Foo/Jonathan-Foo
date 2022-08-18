@@ -1,7 +1,7 @@
 # 👋 Hi
 
 <div align="justify">
-    My name is Jonathan and I'm a Front End Developer.
+    My name is Jonathan and I'm a Front End Developer,who is passoniate about web developement and learning new technologies!
 </div>
 
 # 🔧 Tools & Technologies
