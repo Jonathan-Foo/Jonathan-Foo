@@ -1,7 +1,7 @@
 # 👋 Hi
 
 <div align="justify">
-    My name is Jonathan and I'm a Front End Developer,who is passoniate about web developement and learning new technologies!
+    My name is Jonathan and I'm a Front End Developer, who is passoniate about web developement and learning new technologies!
 </div>
 
 # 🔧 Tools & Technologies
@@ -162,6 +162,15 @@
         alt="Jest"
       />
       <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
     </td>
   </tr>
 </table>
