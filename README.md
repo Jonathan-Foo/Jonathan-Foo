@@ -2,8 +2,8 @@
 
 <div align="justify">
     My name is Jonathan and I'm a Full Stack Developer passoniate about web developement and learning new technologies!
-    Check out my personal portfolio here!: https://jonathan-foo.github.io/portfolio/ 
 </div>
+ Check out my personal portfolio here!: https://jonathan-foo.github.io/portfolio/ 
 
 # 🔧 Tools & Technologies
 
