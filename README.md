@@ -5,7 +5,8 @@
 </div>
 
 <div align="justify">
- Check out my personal portfolio here!: https://jonathan-foo.github.io/portfolio/ 
+ Check out my personal portfolio here!
+ https://jonathan-foo.github.io/portfolio/ 
 </div>
 
 
