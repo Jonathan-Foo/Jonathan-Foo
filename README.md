@@ -4,9 +4,6 @@
     My name is Jonathan and I'm a Full Stack Developer passoniate about web developement and learning new technologies!
 </div>
 
-<div align="justify">
- Check out my personal portfolio here!
-</div>
 
 
 # 🔧 Tools & Technologies
